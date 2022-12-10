@@ -3,4 +3,4 @@ this game is simply made with:-
 -HTML
 -CSS
 -JS
-link:- 
+link:-  https://nitinadhikari01.github.io/javascript-game-Naruto.github.io/
